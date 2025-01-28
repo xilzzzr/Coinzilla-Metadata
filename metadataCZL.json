@@ -1,8 +1,13 @@
-{
-    "name": "Coinzilla",
-    "symbol": "CZL",
-    "description": "Destroying Competition",
-    "image": "https://i.imgur.com/dcK7L62.jpeg",
-    "attributes": []
-  }
-  
+
+  "name": "Coinzilla",
+  "symbol": "CZL",
+  "uri": "https://raw.githubusercontent.com/xilzzzr/Coinzilla-Metadata/main/metadataCZL.json",
+  "seller_fee_basis_points": 100,
+  "creators": [
+    {
+      "address": "47SjhkMppKAGsfz6EPrJCMGq1nDrtukfQmH7FpS7nQJn",
+      "share": 100,
+      "verified": true
+    }
+  ]
+}
